@@ -6,7 +6,7 @@ Finpedia 是一个面向金融零基础用户、金融学生和从业者的中�
 
 > **核心理念：不是把专业金融知识删掉，而是先通过买房、买菜、工资、存钱、信用卡、开店、买手机等生活场景把金融概念讲懂，再补充专业知识。**
 
-在线体验：[Finpedia](https://finpedia-cn.jr12138.chatgpt.site)
+在线体验：[Finpedia GitHub Pages](https://liang89205.github.io/Finpedia/)
 
 ## 项目目标
 
